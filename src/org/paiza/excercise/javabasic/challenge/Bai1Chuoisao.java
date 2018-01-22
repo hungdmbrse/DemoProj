@@ -19,7 +19,7 @@ public class Bai1Chuoisao {
 		else {
 			System.out.print("Xin loi dieu kien N la : 1 <= N"
 					+ "<= 100");
-			dgdgfgf
+			//branch1
 		}
 
 	}
